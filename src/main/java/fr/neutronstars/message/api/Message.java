@@ -27,6 +27,7 @@ public interface Message
 
     /**
      * Go to the next line of the chat and insert the next text which will have a different behavior than the previous one.
+     *
      * @param text The next text of new component
      * @return this instance of message
      */
