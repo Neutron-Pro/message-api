@@ -1,14 +1,8 @@
 # Message API with the BungeeCord Chat Components. [Minecraft 1.8+]
 
----
-
 This api allows to create special messages on Minecraft using the bungeecord-chat library of md_5.
 
----
-
 ## Implementation of api in your project
-
----
 
 **Core**: https://github.com/Neutron-Pro/message-core
 
