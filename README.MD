@@ -20,6 +20,6 @@ repositories {
 
 dependencies {
   compileOnly "net.md-5:bungeecord-chat:1.8-SNAPSHOT"
-  implementation 'com.github.Neutron-Pro:message-api:1.0.0'
+  implementation 'com.github.Neutron-Pro:message-api:1.1.0'
 }
 ```
